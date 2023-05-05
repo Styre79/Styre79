@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Styre79
 - 👀 I’m interested in Network Administration, DevOps, Python, SQL, back-end development
 - 🌱 I’m currently learning basics of DevOps
-- 💞️ I’m looking to collaborate on Network Administration, Data engineering
+- 💞️ I’m looking to collaborate on Network Administration, DevOps, Data engineering
 - 📫 How to reach me: styre79@gmail.com or Telegram: @Styre79
 
 <!---

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Styre79
+- 👋 Hi, I’m Serhii Korsunskyi @Styre79
 - 👀 I’m interested in Network Administration, DevOps, Python, SQL, back-end development
 - 🌱 I’m currently learning basics of DevOps
 - 💞️ I’m looking to collaborate on Network Administration, DevOps, Data engineering
